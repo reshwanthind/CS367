@@ -1,0 +1,26 @@
+# Data: 22 Major tourist locations in Rajasthan, India
+# (City, Latitude, Longitude)
+RAJA_LOCATIONS = [
+    ("Jaipur", 26.9124, 75.7873),
+    ("Udaipur", 24.5854, 73.7125),
+    ("Jodhpur", 26.2389, 73.0243),
+    ("Jaisalmer", 26.9157, 70.9083),
+    ("Pushkar", 26.4886, 74.5510),
+    ("Ajmer", 26.4499, 74.6399),
+    ("Bikaner", 28.0229, 73.3119),
+    ("Mount Abu", 24.5926, 72.7156),
+    ("Chittorgarh", 24.8887, 74.6269),
+    ("Sawai Madhopur", 25.9930, 76.3683),
+    ("Bundi", 25.4404, 75.6475),
+    ("Bharatpur", 27.2171, 77.4929),
+    ("Alwar", 27.5530, 76.6346),
+    ("Mandawa", 28.0583, 75.1485),
+    ("Nathdwara", 24.9312, 73.8222),
+    ("Kumbhalgarh", 25.1485, 73.5859),
+    ("Pali", 25.7720, 73.3259),
+    ("Barmer", 25.7516, 71.4150),
+    ("Nagaur", 27.2031, 73.7431),
+    ("Ranakpur", 25.1162, 73.4426),
+    ("Kota", 25.2138, 75.8648),
+    ("Sikar", 27.6119, 75.1396),
+]
