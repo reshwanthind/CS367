@@ -1,0 +1,4 @@
+The fast brown fox leaped over the lazy dog.
+This is a test sentence for our program.
+It has many uses in today's world.
+Machine learning is a subset of AI.

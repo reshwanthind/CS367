@@ -1,0 +1,4 @@
+The quick brown fox jumps over the lazy dog.
+This is a test sentence for our program.
+Artificial intelligence is a fascinating field of study.
+It has many applications in the modern world.
