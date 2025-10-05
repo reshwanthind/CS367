@@ -1,5 +1,3 @@
-# text_processor.py
-
 import spacy
 import string
 from typing import List
