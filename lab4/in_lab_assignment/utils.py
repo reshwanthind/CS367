@@ -1,4 +1,3 @@
-# filename: utils.py
 import numpy as np
 
 def calculate_haversine_distance(coord1, coord2):

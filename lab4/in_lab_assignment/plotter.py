@@ -1,4 +1,3 @@
-# filename: plotter.py
 import matplotlib.pyplot as plt
 
 def plot_tour(tour, locations, title, is_map=False):

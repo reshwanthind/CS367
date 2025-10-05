@@ -1,4 +1,3 @@
-# filename: simulated_annealing.py
 import numpy as np
 import random
 from utils import calculate_total_distance

@@ -1,4 +1,3 @@
-# filename: tsp_parser.py
 import re
 
 def parse_tsp_file(filepath):

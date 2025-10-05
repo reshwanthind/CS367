@@ -1,4 +1,3 @@
-# filename: main.py
 import os
 import requests
 from locations import RAJA_LOCATIONS
@@ -103,4 +102,3 @@ def run_vlsi_benchmark():
 
 if __name__ == "__main__":
     run_rajasthan_tour()
-    run_vlsi_benchmark()
